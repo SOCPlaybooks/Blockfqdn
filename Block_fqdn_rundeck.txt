@@ -46,3 +46,5 @@ ams3.sonar.digitalocean.com
 stickers.digitalocean.com
 prueba3.com
 prueba2.com
+prueba3.coesa.com.ar
+prueba2.coesa.com.ar
