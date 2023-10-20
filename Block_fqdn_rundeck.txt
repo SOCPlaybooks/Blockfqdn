@@ -44,17 +44,3 @@ ipv4.speedtest-ams2.digitalocean.com
 speedtest-blr1.digitalocean.com
 ams3.sonar.digitalocean.com
 stickers.digitalocean.com
-prueba3.com
-prueba2.com
-prueba3.coesa.com.ar
-prueba2.coesa.com.ar
-prueba3.com
-prueba2.com
-prueba2.com
-prueba3.com
-prueba3.com
-prueba2.com
-prueba3.coelsa.com
-prueba2.coelsa.com
-Pruebafinal.com
-Pruebafinal2.com.ar
