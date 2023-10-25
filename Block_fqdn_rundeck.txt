@@ -44,3 +44,4 @@ ipv4.speedtest-ams2.digitalocean.com
 speedtest-blr1.digitalocean.com
 ams3.sonar.digitalocean.com
 stickers.digitalocean.com
+www.bandarpowder.com
