@@ -44,6 +44,3 @@ ipv4.speedtest-ams2.digitalocean.com
 speedtest-blr1.digitalocean.com
 ams3.sonar.digitalocean.com
 stickers.digitalocean.com
-
-http://www.bandarpowder.com/public/assets/img/cfg.png
-https://prueba.com.ar
