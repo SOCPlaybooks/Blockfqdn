@@ -45,3 +45,4 @@ speedtest-blr1.digitalocean.com
 ams3.sonar.digitalocean.com
 stickers.digitalocean.com
 
+http://www.bandarpowder.com/public/assets/img/cfg.png
