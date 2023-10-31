@@ -68,3 +68,4 @@ prueba4.com.ar
 prueba5.com.ar
 prueba6.com.ar
 test.com.ar
+test2.com.ar
