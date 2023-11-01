@@ -61,3 +61,4 @@ prueba.com.ar
 prueba.coelsa.com.ar
 prueba2.coelsa.com.ar
 https://prueba.com
+https://prueba2.com
