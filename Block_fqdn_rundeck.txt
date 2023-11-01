@@ -63,3 +63,6 @@ prueba2.coelsa.com.ar
 https://prueba.com
 https://prueba2.com
 https://prueba3.com
+prueba.cl
+prueba.com
+www.prueba.com.ar
