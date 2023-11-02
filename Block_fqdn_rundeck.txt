@@ -84,3 +84,6 @@ www.prueba.com.ar
 prueba.com.ar
 www.prueba.com.ar
 prueba.com
+prueba.com
+prueba.com.ar
+www.prueba.com.ar
