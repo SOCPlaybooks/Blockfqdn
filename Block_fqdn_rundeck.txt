@@ -61,4 +61,3 @@ short.gy
 prueba.com.ar
 pepe.com.ar
 meridiano.com.ve
-banplus.com.ve
