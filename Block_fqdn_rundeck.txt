@@ -64,3 +64,4 @@ strava.app.link
 bmwag-rt-prod2-t.campaign.adobe.com
 echt-cmpzourl.maillist-manage.com
 knowbe4.na1.adobesign.com
+na1.documents.adobe.com
