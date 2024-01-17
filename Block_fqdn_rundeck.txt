@@ -80,3 +80,4 @@ sunshinewhitecolor.com
 service.specialcraftbox.com
 get.specialcraftbox.com
 rest.greenfastline.com
+fine.greenfastline.com
