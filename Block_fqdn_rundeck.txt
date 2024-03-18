@@ -234,3 +234,4 @@ filebin.nz
 njbjc.cn
 domainsbyproxy.com
 lumpmobile.shop
+checkandswitch.com
