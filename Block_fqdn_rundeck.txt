@@ -248,3 +248,4 @@ shocktempt.best
 mercadolibre--arg.shop
 stati.in
 dblksync.dblks.net
+usersync.tiqcdn.net
