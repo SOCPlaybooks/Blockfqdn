@@ -276,3 +276,4 @@ sauron.frog.cl
 cs.ffbtas.com
 ghasedak.com
 cp.ghasedak.ir
+eTransaction@worker-wandering-surf-8dbc.alt-rl-6oqg6nw0.workers.dev
