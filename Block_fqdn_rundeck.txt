@@ -457,3 +457,4 @@ electrivargo.com.mx
 emailserver.bmping.com.mx
 t1.fruvemex.com
 pcdelnorte.com.mx
+beerhub.mx
