@@ -537,3 +537,4 @@ freer.in
 ads-static.ampliffy.net
 radio.arcast.net
 znuc.info
+vgkb.info
