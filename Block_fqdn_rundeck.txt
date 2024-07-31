@@ -588,3 +588,4 @@ cdn.bootcss.com
 adstracked.xyz
 calculadora-mercadopago.com.ar
 fcit.com.br
+16.0-24.197.62.64.in-addr.arpa
