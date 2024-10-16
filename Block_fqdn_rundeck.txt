@@ -708,3 +708,4 @@ clcktrck.com
 cdnjs.cloudflare.com
 steelecreekcapital.com
 metamask.github.io
+techfriendly.es
