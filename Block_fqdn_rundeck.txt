@@ -711,3 +711,4 @@ metamask.github.io
 techfriendly.es
 sc.stogosuite.com
 invidious.domain.glass
+us1.wzrkt.com
