@@ -713,3 +713,4 @@ sc.stogosuite.com
 invidious.domain.glass
 us1.wzrkt.com
 karatex.com.ar
+next-auth-example.vercel.app
