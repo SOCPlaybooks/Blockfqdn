@@ -732,3 +732,4 @@ securityadminhelper.onmicrosoft.com
 supportserviceadmin.onmicrosoft.com
 s.seedtag.com
 app-measurement.com
+masbcr.com.ar
