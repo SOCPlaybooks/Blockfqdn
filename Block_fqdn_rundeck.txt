@@ -733,3 +733,4 @@ supportserviceadmin.onmicrosoft.com
 s.seedtag.com
 app-measurement.com
 masbcr.com.ar
+wds.weqs.ink
