@@ -800,3 +800,4 @@ hostred[.]com[.]ar
 cdn.claroutmservice.com
 mkbiszdv.r.us-west-2.awstrack.me
 wpad.itotolink.com
+short.ultinoticias.online
