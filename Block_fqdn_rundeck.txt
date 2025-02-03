@@ -835,3 +835,4 @@ qfab.geontrigame.com
 xrxw.scortma.com
 cxmp.scortma.com
 llue.geontrigame.com
+quit.scortma.com
