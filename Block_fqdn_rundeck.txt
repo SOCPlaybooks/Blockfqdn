@@ -874,3 +874,4 @@ emojikeyboardforchrome.com
 sdmextension.com
 wistiaextension.com
 pagerefresh-extension.com
+adblockforytextension.com
