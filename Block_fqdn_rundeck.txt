@@ -947,3 +947,4 @@ push-sdk.com
 coaufu.com
 asdf11.xyz
 myaunet.su
+dl.edge-aicdn.net
