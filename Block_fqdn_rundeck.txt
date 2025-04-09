@@ -948,3 +948,4 @@ coaufu.com
 asdf11.xyz
 myaunet.su
 dl.edge-aicdn.net
+storage.ml-cachehost.net
