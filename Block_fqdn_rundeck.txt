@@ -977,3 +977,4 @@ signin_micro-s4tqvd.mukailaelepo101.workers.dev
 workers.dev
 d3v0px0pttie1i.cloudfront.net
 yoiutube.com
+openid.net
