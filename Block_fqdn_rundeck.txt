@@ -983,3 +983,4 @@ mrztrade.com
 ispgroup.com.ar
 tu-servidor.com
 openbugbounty.org
+wapiti3.ovh
