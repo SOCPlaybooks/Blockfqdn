@@ -1056,3 +1056,4 @@ highperformanceformat.com
 ine-up.com.ar
 icloudservers.com
 macostutorial.com
+cdn.intergient.com
