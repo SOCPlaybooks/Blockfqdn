@@ -1057,3 +1057,4 @@ icloudservers.com
 macostutorial.com
 cdn.intergient.com
 theguardian.com
+adclick.g.doubleclick.net
