@@ -1081,3 +1081,4 @@ velo.qaubctgg.workers.dev
 files.qaubctgg.workers.dev
 pba.ph
 fealty5390.medivoi.za.com
+medivoi.za.com
