@@ -1146,3 +1146,4 @@ dn721709.ca.archive.org
 dn721205.ca.archive.org
 archive.org
 serverdata-cloud.cloud
+pastefy.app
