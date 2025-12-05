@@ -1209,3 +1209,4 @@ htglnc.com
 us-east-2.protection.sophos.com
 lobnadiffoleco.onmicrosoft.com
 stellarcommunications.NET
+wadi.com
