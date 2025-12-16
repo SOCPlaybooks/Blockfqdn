@@ -1215,3 +1215,4 @@ dievka.kz
 niceriftsk.click
 titlesearcher.com
 dns-exfil.masim.cloud
+dns-exfil.masmcore-cf-prod-02.masm.cloudferry
