@@ -1219,3 +1219,4 @@ dns-exfil.masmcore-cf-prod-02.masm.cloudferry
 dyndns-web.com
 lb.adzone.io
 smartforms.dev
+intexargentina.com.ar
